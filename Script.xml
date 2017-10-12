@@ -1,0 +1,7 @@
+<!-- Add the scripts and files to be loaded with scripts here -->
+
+
+<script file="stats.nut" client="0"/>
+
+
+<sound file="Smoke.mp3"/>

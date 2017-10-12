@@ -1,0 +1,1 @@
+Instruction to use just use this command "/mystats" that's all!
